@@ -25,8 +25,8 @@ public class PexelsImageSearch {
     private static final String API_KEY = "api_key";
     private static final String ENDPOINT = "https://api.pexels.com/v1/search";
 
-    private static final String BAIDU_APP_ID = "20250218002277597";
-    private static final String BAIDU_API_KEY = "RviO3TrR0tKlcQtvWj3K";
+    private static final String BAIDU_APP_ID = "appid";
+    private static final String BAIDU_API_KEY = "baidu_api_key";
     private static final String BAIDU_TRANSLATE_ENDPOINT = "https://fanyi-api.baidu.com/api/trans/vip/translate";
 
     private static final int DEFAULT_PAGE_SIZE = 20;
