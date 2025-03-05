@@ -9,16 +9,20 @@
 
 ## 技术选型
 ### 后端
-### -Java Spring Boot 框架
-### -MySQL 数据库+MyBatis-Plus 框架+ MyBatis X
-### -Redis 分布式缓存 +Caffeine 本地缓存
-### -Jsoup 数据抓取
-### -COS 对象存储
-### -ShardingSphere 分库分表
-### -Sa-Token 权限控制
-### -WebSocket 双向通信
-### -Disruptor 高性能无锁队列
-### -JUC 并发和异步编程
-### -AI绘图大模型接入
-### -多种设计模式的运用
-### -多角度项目优化:性能、成本、安全性等
+#### -Java Spring Boot 框架
+#### -MySQL 数据库+MyBatis-Plus 框架+ MyBatis X
+#### -Redis 分布式缓存 +Caffeine 本地缓存
+#### -Jsoup 数据抓取
+#### -COS 对象存储
+#### -ShardingSphere 分库分表
+#### -Sa-Token 权限控制
+#### -WebSocket 双向通信
+#### -Disruptor 高性能无锁队列
+#### -JUC 并发和异步编程
+#### -AI绘图大模型接入
+#### -多种设计模式的运用
+#### -多角度项目优化:性能、成本、安全性等
+
+##项目架构
+![1741163841195](https://github.com/user-attachments/assets/b9e2ca0f-f008-4a88-98d7-357f61292942)
+
