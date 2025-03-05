@@ -8,9 +8,9 @@
 个人用户还可开通团队空间并邀请其他成员，共享和实时协同编辑图片。
 
 ## 技术选型
-后端
--Java Spring Boot 框架
--MySQL 数据库+MyBatis-Plus 框架+ MyBatis X
+#后端
+#-Java Spring Boot 框架
+#-MySQL 数据库+MyBatis-Plus 框架+ MyBatis X
 -Redis 分布式缓存 +Caffeine 本地缓存
 -Jsoup 数据抓取
 -COS 对象存储
