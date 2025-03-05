@@ -22,7 +22,7 @@ import java.util.List;
 @Slf4j
 public class PexelsImageSearch {
 
-    private static final String API_KEY = "j8DDcq6ITxOrRF4VbrAkzFjI05jrAs6rj8EYKtM3U9chc75icbmY1FNo";
+    private static final String API_KEY = "api_key";
     private static final String ENDPOINT = "https://api.pexels.com/v1/search";
 
     private static final String BAIDU_APP_ID = "20250218002277597";
